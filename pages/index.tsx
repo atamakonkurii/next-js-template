@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <h1 className="text-5xl">
         Hello{" "}
-        <a className="text-blue-500 hover:text-blue-300 font-bold" href="https://nittai-one.com/zh-TW">
+        <a className="text-blue-400 hover:text-blue-300 font-bold" href="https://nittai-one.com/zh-TW">
           Nittai-one!
         </a>
       </h1>
