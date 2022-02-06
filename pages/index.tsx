@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="min-h-screen py-0 px-2 flex flex-col justify-center items-center">
       <Head>
-        <title>Create Next App</title>
+        <title>写真人狼</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1 className="text-5xl">
