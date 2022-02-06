@@ -12,7 +12,7 @@ export default function Home() {
       <h1 className="text-5xl">
         Hello{" "}
         <a
-          className="text-blue-800 hover:text-blue-300 font-bold"
+          className="text-blue-700 hover:text-blue-300 font-bold"
           href="https://nittai-one.com/zh-TW"
         >
           Nittai-one!
