@@ -1,6 +1,8 @@
-# photo-werewolf
+# next-js-template
 
 【Under construction】
 
-Next.js + Firebaseの構成で作るコミュニケーションゲームアプリ。
-スマホのカメラロールにある写真を使って遊ぶ人狼ゲーム。
+Next.jsのテンプレートリポジトリ
+* prettier
+* eslint
+* typescript
